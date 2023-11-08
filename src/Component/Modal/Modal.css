@@ -1,0 +1,26 @@
+.modal-box{
+    height: 763px;
+    border-radius: 16px;
+background: #FFF;
+ 
+}
+.p{
+   
+border-radius: 16px;
+border: 1px solid #EB5757;
+padding: 3px;
+
+background: rgba(235, 87, 87, 0.05);
+}
+.img{
+    /* width: 487px; */
+height: 241px;
+border-radius: 16px;
+
+
+background: #FFF;
+}
+.m{
+    background-color:red;
+    /* height: 150px; */
+}
